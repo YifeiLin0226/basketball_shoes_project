@@ -1,0 +1,7 @@
+text.ipynb
+data
+lib
+storage
+.venv
+.env
+.chainlit
